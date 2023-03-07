@@ -3,7 +3,9 @@
 
 <br/>
 
-This is the repository about **MILab DeepLearning Study**. We will provide the presentations about each chapter.
+- This is the repository about **MILab DeepLearning Study**. We will provide the presentations about each chapter.
+
+- Study Material Book : https://www.deeplearningbook.org/
 
 <br/>
 
