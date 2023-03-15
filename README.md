@@ -19,4 +19,5 @@
 
 | Date | Contents | Presenter |
 |------|----------|-----------|
-| 23/03/07 | Chapter 5 Machine Learning Basics | TaeHyeon Kim |
+| 23/03/07 | Chapter 5 Machine Learning Basics | Taehyeon Kim |
+| 23/03/14 | Chapter 6 Deep Feedforward Networks | Seongho Shin |
