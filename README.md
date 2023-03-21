@@ -21,3 +21,4 @@
 |------|----------|-----------|
 | 23/03/07 | Chapter 5 Machine Learning Basics | Taehyeon Kim |
 | 23/03/14 | Chapter 6 Deep Feedforward Networks | Seongho Shin |
+| 23/03/21 | Chapter 7 Regularization for Deep Learning | Eunji Lim |
