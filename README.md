@@ -19,7 +19,7 @@
 
 | Date | Contents | Presenter |
 |------|----------|-----------|
-| 23/03/07 | Chapter 5 Machine Learning Basics | Taehyeon Kim |
-| 23/03/14 | Chapter 6 Deep Feedforward Networks | Seongho Shin |
-| 23/03/21 | Chapter 7 Regularization for Deep Learning | Eunji Lim |
-| 23/03/28 | Chapter 8 Optimization for Training Deep Learning | Eunchae Kim |
+| 23/03/07 | Chapter 5 Machine Learning Basics | Kim Taehyeon |
+| 23/03/14 | Chapter 6 Deep Feedforward Networks | Shin Seongho |
+| 23/03/21 | Chapter 7 Regularization for Deep Learning | Lim Eunji |
+| 23/03/28 | Chapter 8 Optimization for Training Deep Learning | Kim Eunchae |
