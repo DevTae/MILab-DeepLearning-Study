@@ -23,5 +23,5 @@
 | 23/03/14 | Chapter 6 Deep Feedforward Networks | Shin Seongho |
 | 23/03/21 | Chapter 7 Regularization for Deep Learning | Lim Eunji |
 | 23/03/28 | Chapter 8 Optimization for Training Deep Learning | Kim Eunchae |
-| 23/04/11 | Chapter 9 Convolutional Neural Network | Oh Hyeju |
+| 23/04/04 | Chapter 9 Convolutional Neural Network | Oh Hyeju |
 | 23/04/11 | Chapter 10 Sequence Modeling - Recurrent and Recursive Nets | Kim Dayoung |
