@@ -25,3 +25,4 @@
 | 23/03/28 | Chapter 8 Optimization for Training Deep Learning | Kim Eunchae |
 | 23/04/04 | Chapter 9 Convolutional Neural Network | Oh Hyeju |
 | 23/04/11 | Chapter 10 Sequence Modeling - Recurrent and Recursive Nets | Kim Dayoung |
+| 23/05/09 | Chapter 12 Applications | Nam Seoyong |
