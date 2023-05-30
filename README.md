@@ -28,3 +28,5 @@
 | 23/05/09 | Chapter 12 Applications | Nam Seoyong |
 | 23/05/02 | Chapter 13 Linear Factor Models | Shin Seongho |
 | 23/05/23 | Chapter 15 Representation Learning | Kim Taehyeon |
+| 23/05/31 | Chapter 17 Monte Carlo Methods | Oh Hyeju |
+| 23/05/31 | Chapter 18 Confronting the Partition Function | Kim Dayoung |
