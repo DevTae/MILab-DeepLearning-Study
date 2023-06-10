@@ -25,8 +25,11 @@
 | 23/03/28 | Chapter 8 Optimization for Training Deep Learning | Kim Eunchae |
 | 23/04/04 | Chapter 9 Convolutional Neural Network | Oh Hyeju |
 | 23/04/11 | Chapter 10 Sequence Modeling - Recurrent and Recursive Nets | Kim Dayoung |
+| 23/04/11 | Chapter 11 Practical Methodology | Seo Haeun |
 | 23/05/09 | Chapter 12 Applications | Nam Seoyong |
 | 23/05/02 | Chapter 13 Linear Factor Models | Shin Seongho |
 | 23/05/23 | Chapter 15 Representation Learning | Kim Taehyeon |
 | 23/05/31 | Chapter 17 Monte Carlo Methods | Oh Hyeju |
 | 23/05/31 | Chapter 18 Confronting the Partition Function | Kim Dayoung |
+| 23/06/06 | Chapter 19 Approximate Inference | Seo Haeun |
+| 23/06/06 | Chapter 20 Deep Generative Models | Nam Seoyong |
